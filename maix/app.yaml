@@ -1,0 +1,13 @@
+id: jiaxiantang
+name: 电赛c题
+version: 1.0.0
+author: jiaxiantang
+icon: app.png
+desc: 测量
+files:
+  - comm.py
+  - config.py
+  - debug.py
+  - main.py
+  - README.md
+  - vision.py
